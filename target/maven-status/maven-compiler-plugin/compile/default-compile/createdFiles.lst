@@ -1,0 +1,7 @@
+com/learning/rabbitmq/Producer.class
+com/learning/rabbitmq/Consumer.class
+com/learning/rabbitmq/DirectProducer.class
+com/learning/rabbitmq/FanoutProducer.class
+com/learning/rabbitmq/TopicConsumer.class
+com/learning/rabbitmq/DirectConsumer.class
+com/learning/rabbitmq/FanoutConsumer.class
